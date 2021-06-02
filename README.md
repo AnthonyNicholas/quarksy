@@ -9,6 +9,8 @@ I worked on this project with one other developer as part of a Deloitte DPE deve
 
 https://www.youtube.com/watch?v=k29AfQvr548
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k29AfQvr548/0.jpg)](https://www.youtube.com/watch?v=k29AfQvr548)
+
 
 ## Running the application in dev mode
 
