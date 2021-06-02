@@ -1,3 +1,4 @@
+
 # Developers-api project - Quarkus
 
 This project implements the Developer Track API shoot-out project using Quarkus, the Supersonic Subatomic Java Framework.  If you want to learn more about Quarkus, please visit its website: https://quarkus.io/.
@@ -6,13 +7,7 @@ The app implements a REST api in accordance with the specification set out in th
 
 I worked on this project with one other developer as part of a Deloitte DPE developer track learning challenge - use a framework which you are not familiar with.  Our video presentation is here:
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://drive.google.com/file/d/13Gt46PMObxu92mSrH2pLY-snHXJUHRu9/view?usp=sharing" type="video/mov">
-  </video>
-</figure>
-
-https://drive.google.com/file/d/13Gt46PMObxu92mSrH2pLY-snHXJUHRu9/view?usp=sharing
+https://www.youtube.com/watch?v=k29AfQvr548
 
 
 ## Running the application in dev mode
