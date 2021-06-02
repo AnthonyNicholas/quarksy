@@ -4,6 +4,11 @@ This project implements the Developer Track API shoot-out project using Quarkus,
 
 The app implements a REST api in accordance with the specification set out in the api-definition.yaml file.
 
+I worked on this project with one other developer as part of a Deloitte DPE developer track learning challenge - use a framework which you are not familiar with.  Our video presentation is here:
+
+https://drive.google.com/file/d/13Gt46PMObxu92mSrH2pLY-snHXJUHRu9/view?usp=sharing
+
+
 ## Running the application in dev mode
 
 You can run this application in dev mode that enables live coding using:
