@@ -7,8 +7,6 @@ The app implements a REST api in accordance with the specification set out in th
 
 I worked on this project with one other developer as part of a Deloitte DPE developer track learning challenge - use a framework which you are not familiar with.  Our video presentation is here:
 
-https://www.youtube.com/watch?v=k29AfQvr548
-
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/k29AfQvr548/0.jpg)](https://www.youtube.com/watch?v=k29AfQvr548)
 
 
