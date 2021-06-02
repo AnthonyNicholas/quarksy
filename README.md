@@ -6,6 +6,8 @@ The app implements a REST api in accordance with the specification set out in th
 
 I worked on this project with one other developer as part of a Deloitte DPE developer track learning challenge - use a framework which you are not familiar with.  Our video presentation is here:
 
+[![Alternate Text]({image-url})]({https://drive.google.com/file/d/13Gt46PMObxu92mSrH2pLY-snHXJUHRu9/view?usp=sharing} "Link Title")
+
 https://drive.google.com/file/d/13Gt46PMObxu92mSrH2pLY-snHXJUHRu9/view?usp=sharing
 
 
